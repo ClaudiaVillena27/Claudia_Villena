@@ -58,14 +58,14 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Pontificia Universidad Católica del Perú"
+   - company: "Pontificia Universidad Católica del Perú"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Academic Assistant"
       startdate: Jul 2021
       enddate: present
       featuredpoints:
         - point: Atted the academic affairs of the Political Science Specialty, Social Science.
-    - company: "Dirección Nacional de Educación y Formación Cívica Ciudadana (DNEF) del Jurado Nacional de Elecciones"
+   - company: "Dirección Nacional de Educación y Formación Cívica Ciudadana (DNEF) del Jurado Nacional de Elecciones"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Research Assistant for the Visualization of data"
       startdate: Mar 2021
@@ -74,7 +74,7 @@ params:
         - point: Assistance in statistical analysis and visualization of data from research projects.
         - point: Assistance in the application of surveys and collection of quantitative and qualitative information.
         - point: Data analysis in R
-    - company: "Subgerencia de Movilidad Urbana y Seguridad Vial. Municipalidad de Miraflores"
+   - company: "Subgerencia de Movilidad Urbana y Seguridad Vial. Municipalidad de Miraflores"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Project Assistant"
       startdate: Jan 2020
@@ -87,15 +87,15 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "Political Science"
+   - degree: "Political Science"
       branch: "Social Science"
       university: "Pontificia Universidad Católica del Perú"
       startedyear: "2014"
       graduation: "2019"
-    - degree: "Political Science. Student exchange semester"
+   - degree: "Political Science. Student exchange semester"
       university: "Centro de Investigación y Docencia Económica. CIDE"
       startedyear: "2019"
-    - degree: "Corruption"
+   - degree: "Corruption"
       branch: "Business Strategies for A Better World Specialization"
       university: "University of Pensilvania"
       startedyear: "2022"
