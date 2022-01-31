@@ -105,7 +105,7 @@ params:
   disable_projects: false
   projects:
     - name: "Analysis of the experiences and degrees of tolerance with corruption in Peru (2019)"
-      img: "/images/Foto1.jpg"
+      img: "/images/Foto1.png"
       githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
       featuredlink: "/"
       description: "This report seeks to analyze one of the most important inputs for the development of anti-corruption policies: the attitudes and experiences of Peruvians regarding corrupt behavior."
@@ -122,25 +122,43 @@ params:
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Bachelor of Social Sciences 
+      description: Mention in Political Science and Government.
       img: /images/achiv.jpg
-      url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+      #url: https://example.com
+    - title: Degree in Political Science and Government
+      description: outstanding mention
       img: /images/achiv.jpg
       # url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Workshop on Statistical Tools for Socio-Analysis Politician
+      description: CISEPA PUCP
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title:  Training Course in Modernization of the Public Management
+      description: Escuela de Gobierno y Políticas Públicas PUCP
+      img: /images/achiv.jpg
+    - title:  Introduction to Impact Assessment Workshop
+      description: CISEPA PUCP
+      img: /images/achiv.jpg
+    - title:  Introduction to Social Research Workshop
+      description: CISEPA PUCP
+      img: /images/achiv.jpg
+    - title:  Behavioral Design 
+      description: Instituto Mexicano de Economía del Comportamiento
+      img: /images/achiv.jpg
+    - title: Statistical analysis of data with r 
+      description: PeruStat
+      img: /images/achiv.jpg
+    - title: data analysis, reporting and visualization with R markdown 
+      description: Ciencia de Datos Ecuador
+      img: /images/achiv.jpg
+    - title: Data visualization georeferenced in R 
+      description: SDC- Learning
       img: /images/achiv.jpg
 
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  contact_content: My inbox is always open. Whether you have a question or  want to star an investigation, I'll try my best to get back to you!
+  email: "claudia.villena@pucp.edu.pe"
 
   # Footer
   socialiconfooter: true
