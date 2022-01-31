@@ -103,7 +103,7 @@ params:
 
   # Projects
   disable_projects: false
-  #projects:
+  projects:
     - name: "Analysis of the experiences and degrees of tolerance with corruption in Peru (2019)"
       img: "/images/Foto1.jpg"
       githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
