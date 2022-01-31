@@ -122,38 +122,38 @@ params:
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Bachelor of Social Sciences 
-      description: Mention in Political Science and Government.
-      img: /images/achiv.jpg
+    - title: Bachelor of Social Sciences. Mention in Political Science and Government
+      description: PUCP
+      img: "/images/bachillera.jpg"
       #url: https://example.com
     - title: Degree in Political Science and Government
-      description: outstanding mention
-      img: /images/achiv.jpg
+      description: PUCP
+      img: "/images/titulo.jpg"
       # url: https://example.com
     - title: Workshop on Statistical Tools for Socio-Analysis Politician
       description: CISEPA PUCP
-      img: /images/achiv.jpg
+      img: "/images/Estadistico.jpg"
     - title:  Training Course in Modernization of the Public Management
       description: Escuela de Gobierno y Políticas Públicas PUCP
-      img: /images/achiv.jpg
+      img: "/images/modernizacion.jpg"
     - title:  Introduction to Impact Assessment Workshop
       description: CISEPA PUCP
-      img: /images/achiv.jpg
+      img: "/images/Evalucion_impacto.jpg"
     - title:  Introduction to Social Research Workshop
       description: CISEPA PUCP
-      img: /images/achiv.jpg
+      img: "/images/Investigacion_social.jpg"
     - title:  Behavioral Design 
       description: Instituto Mexicano de Economía del Comportamiento
-      img: /images/achiv.jpg
+      img: "/images/economia_comportamiento.jpg"
     - title: Statistical analysis of data with r 
       description: PeruStat
-      img: /images/achiv.jpg
+      img: "/images/Analisis_estadistico_R.jpg"
     - title: data analysis, reporting and visualization with R markdown 
       description: Ciencia de Datos Ecuador
-      img: /images/achiv.jpg
+      img: "/images/r.jpg"
     - title: Data visualization georeferenced in R 
       description: SDC- Learning
-      img: /images/achiv.jpg
+      img: "/images/visualizacion_datos.jpg"
 
   # Contact
   disable_contact: false
