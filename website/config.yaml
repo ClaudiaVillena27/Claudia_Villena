@@ -105,20 +105,20 @@ params:
   disable_projects: false
   projects:
     - name: "Analysis of the experiences and degrees of tolerance with corruption in Peru (2019)"
-      img: "/images/Foto1.png"
+      img: "/images/Index.png"
       githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
       featuredlink: "/"
-      description: "This report seeks to analyze one of the most important inputs for the development of anti-corruption policies: the attitudes and experiences of Peruvians regarding corrupt behavior."
+      description: "This report analyze the attitudes and experiences of Peruvians regarding corrupt behavior."
     - name: "The Construction Club: an approach to the study of corruption in public procurement in Peru (2002-2016)"
-      img: "/images/Foto2.png"
+      img: "/images/Tesis.png"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17882"
       featuredlink: "/"
-      description: "This thesis seeks to develop a response to the phenomenon of corruption in the public procurement of infraestructural projects. It is argue that the characteristics of the weak governance of the infraestructure system in Peru and the corporate capture of the institutions in charge of public procurements, explain the high degree of corruption and collusion present between 2002-2016"
+      description: "It is argue that the characteristics of the weak governance of the infraestructure system in Peru and the corporate capture of the institutions in charge of public procurements, explain the high degree of corruption and collusion present between 2002-2016."
     - name: "In the shadow of legality: the causes of corruption in the contracting of public works (2011-2014)"
-      img: "/images/Foto3.png"
+      img: "/images/Cusco.png"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17164"
       featuredlink: "/"
-      description: "It is argued that the corruption present in these two cases responds to a utilitarian rationality and strategic interaction present in the relationships between public and private actors (independent variable 1), and the existence of regulatory deficiencies in the contracting process (independent variable 2)."     
+      description: "It is argued that the corruption present in these two cases responds to a utilitarian rationality and strategic interaction present in the relationships between public and private actors and the existence of regulatory deficiencies in the contracting process."     
   # Achievements
   disable_achievements: false
   achievements:
