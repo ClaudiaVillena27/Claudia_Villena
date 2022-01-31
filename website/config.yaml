@@ -31,7 +31,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profileCV.png"
+  profile_image: "/images/FotoCV.png"
   name: "Claudia Villena Tagle"
   namecolor: ffc107
   profession: "Political scientist"
