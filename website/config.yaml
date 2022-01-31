@@ -118,7 +118,18 @@ params:
       img: "/images/Cusco.jpg"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17164"
       featuredlink: "/"
-      description: "This study proposed a framework to study the causes of corruption in the construction of public procurement analizing two case studies: Vía de Evitamiento and the Antonio Lorena Hospital in Cusco."     
+      description: "This study proposed a framework to study the causes of corruption in the construction of public procurement analizing two case studies: Vía de Evitamiento and the Antonio Lorena Hospital in Cusco."   
+    - name: "💡 Yo ando sin COVID-19" 
+      img: "/images/Miraflores-proyecto.jpg"
+      githublink: "https://www.facebook.com/page/112797123803123/search/?q=miraflores"
+      featuredlink: "/"
+      description: "With the Decision Lab team and the Municipality of Miraflores, we used behavioral science tools to reduced the risk of COVID-19 infection."
+    - name: "Chatbot DAVI"
+      img: "/images/Chatbot.jpg"
+      githublink: "https://www.facebook.com/decisionlabPUCP/posts/295907282158772"
+      featuredlink: "/"
+      description: "With the Decision Lab team, MDP Consulting, Data Science Research Peru and Transparency Peru, we developed a virtual assistant that helped answer questions about the 2021 General Elections."
+     
   # Achievements
   disable_achievements: false
   achievements:
