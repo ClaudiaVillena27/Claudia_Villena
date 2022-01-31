@@ -31,11 +31,10 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
+  profile_image: "/images/profileCV.png"
   name: "Claudia Villena Tagle"
   namecolor: ffc107
   profession: "Political scientist"
-  gmail: "claudia.villena@pucp.edu.pe"
   github: "https://github.com/ClaudiaVillena27"
   linkedin: "https://www.linkedin.com/in/claudiavillenatagle/"
   facebook: "https://www.facebook.com/claudia.villena.52"
@@ -43,20 +42,18 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hello! My name is Claudia Villena. I graduated in Political Science and Government from the Pontificia Universidad Catolica del Peru (PUCP). I got an outstanding mention in my thesis investigation about corruption in public procurement. "
-  descripe_l2_person: "I am currently working as an academic assistant in the PUCP, in the specialization of Political Science. Also, I am engaged in teaching activities as a Teachers's assistant in Political Economics at the same department. Prior to joining the PUCP, I worked as a project assistant in the Municipality of Miraflores, in the department of Urban Mobility and as Research Assistant in the Jurado Nacional de Elecciones (JNE), Peru. These experience taught me abilities in visualization of Data, methods of investigation and management of projects."
-  descripe_l3_person: "I am a member of a laboratory specialized in the use of behavioral sciences for the innovative solution of public problems: Decision Lab PUCP. In this group I had been Director of Investigation and lead interventions in the fields of sustainable mobility and integrity."
-  descripe_l4_person: " By the time, i have been working on developing my abilities in Data Science and quantitative methods of research. My goal is to develop my professional career in corruption and security field applying my analytical skills. "
-  descripe_l5_person: "Areas of expertise: Corrupción, economía política y ciencias del comportamiento"
+  descripe_l2_person: "I am currently working as an academic assistant in the PUCP, in the specialization of Political Science. Also, I am engaged in teaching activities as a Teachers's assistant in Political Economics at the same department. Prior to joining the PUCP, I worked as a project assistant in the Municipality of Miraflores, in the department of Urban Mobility and as Research Assistant in the Jurado Nacional de Elecciones (JNE), Peru. By the time, i have been working on developing my abilities in Data Science and quantitative methods of research. My goal is to develop my professional career in corruption and security field applying my analytical skills."
+  
 
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
+    - name: SPSS
       percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: R Studio
+      percentage: 85
+    - name: Python
+      percentage: 50
+    - name: Google Data Studio
+      percentage: 85
 
   # Experience
   disable_experience: false
