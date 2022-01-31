@@ -101,7 +101,7 @@ params:
       startedyear: "2022"
       
 
-  # Projects and investigations
+  # Projects 
   disable_projects: false
   projects:
     - name: "Analysis of the experiences and degrees of tolerance to corruption in Peru (2019)"
