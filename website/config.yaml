@@ -113,21 +113,21 @@ params:
       img: "/images/Tesis.jpg"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17882"
       featuredlink: "/"
-      description: "The characteristics of the weak governance of the infraestructure system and the corporate capture of the institutions of public procurements, explain the high degree of corruption studied."
+      description: "This thesis developed a response to the phenomenon of corruption in the construction of public works from the political economics field."
     - name: "In the shadow of legality: the causes of corruption in the contracting of public works (2011-2014)"
       img: "/images/Cusco.jpg"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17164"
       featuredlink: "/"
-      description: "Corruption responds to the utilitarian rationality and strategic interaction present in the relationship between public and private actors, as the existence of regulatory shortcomings in the contracting process."     
+      description: "This study proposed a framework to study the causes of corruption in the construction of public works analizing two case studies: Vía de Evitamiento and the Antonio Lorena Hospital in Cusco."     
   # Achievements
   disable_achievements: false
   achievements:
     - title: Bachelor of Social Sciences. Mention in Political Science and Government
-      description: PUCP
+      description: Pontificia Universidad Católica del Perú PUCP
       img: "/images/bachillera.jpg"
       #url: https://example.com
     - title: Degree in Political Science and Government
-      description: PUCP
+      description: Pontificia Universidad Católica del Perú PUCP
       img: "/images/titulo.jpg"
       # url: https://example.com
     - title: Workshop on Statistical Tools for Socio-Analysis Politician
@@ -148,7 +148,7 @@ params:
     - title: Statistical analysis of data with r 
       description: PeruStat
       img: "/images/Analisis_estadistico_R.jpg"
-    - title: data analysis, reporting and visualization with R markdown 
+    - title: Data analysis, reporting and visualization with R markdown 
       description: Ciencia de Datos Ecuador
       img: "/images/r.jpg"
     - title: Data visualization georeferenced in R 
