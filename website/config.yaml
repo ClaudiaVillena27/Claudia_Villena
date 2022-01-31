@@ -34,13 +34,10 @@ params:
   profile_image: "/images/profile.png"
   name: "Claudia Villena Tagle"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  profession: "Political scientist"
+  github: "https://github.com/ClaudiaVillena27"
+  linkedin: "https://www.linkedin.com/in/claudiavillenatagle/"
+  facebook: "https://www.facebook.com/claudia.villena.52"
 
   # About
   disable_about: false
