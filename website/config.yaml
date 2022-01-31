@@ -58,49 +58,48 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "Pontificia Universidad Católica del Perú"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
+      role: "Academic Assistant"
+      startdate: Jul 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
+        - point: Atted the academic affairs of the Political Science Specialty, Social Science.
+    - company: "Dirección Nacional de Educación y Formación Cívica Ciudadana (DNEF) del Jurado Nacional de Elecciones"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+      role: "Research Assistant for the Visualization of data"
+      startdate: Mar 2021
+      enddate: Jun 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
+        - point: Assistance in statistical analysis and visualization of data from research projects.
+        - point: Assistance in the application of surveys and collection of quantitative and qualitative information.
+        - point: Data analysis in R
+    - company: "Subgerencia de Movilidad Urbana y Seguridad Vial. Municipalidad de Miraflores"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+      role: "Project Assistant"
+      startdate: Jan 2020
+      enddate: Feb 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Support in the elaboration of the Strategic Plan of the Municipality of Miraflores, departament of Urban Mobility.
+        - point: Data analysis in R.
+        - point: Development of visualization boards in Google DataStudio.
 
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "Political Science"
+      branch: "Social Science"
+      university: "Pontificia Universidad Católica del Perú"
+      startedyear: "2014"
+      graduation: "2019"
+    - degree: "Political Science. Student exchange semester"
+      university: "Centro de Investigación y Docencia Económica. CIDE"
+      startedyear: "2019"
+    - degree: "Corruption"
+      branch: "Business Strategies for A Better World Specialization"
+      university: "University of Pensilvania"
+      startedyear: "2022"
+      
 
   # Projects
   disable_projects: false
