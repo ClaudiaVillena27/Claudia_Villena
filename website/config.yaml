@@ -32,7 +32,7 @@ params:
   # home
   disable_home: false
   profile_image: "/images/FotoCV.jpg"
-  name: "Claudia Villena Tagle"
+  name: "Claudia Villena"
   namecolor: ffc107
   profession: "Political scientist"
   github: "https://github.com/ClaudiaVillena27"
@@ -42,7 +42,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hello! My name is Claudia Villena. I graduated in Political Science and Government from the Pontificia Universidad Catolica del Peru (PUCP). I got an outstanding mention in my thesis investigation about corruption in public procurement. "
-  descripe_l2_person: "I am currently working as an academic assistant in the PUCP, in the specialization of Political Science. Also, I am engaged in teaching activities as a Teachers's assistant in Political Economics at the same department. Prior to joining the PUCP, I worked as a project assistant in the Municipality of Miraflores, in the department of Urban Mobility and as Research Assistant in the Jurado Nacional de Elecciones (JNE), Peru. By the time, i have been working on developing my abilities in Data Science and quantitative methods of research. My goal is to develop my professional career in corruption and security field applying my analytical skills."
+  descripe_l2_person: "I am currently working as an academic assistant in the PUCP, in the specialization of Political Science. I am engaged in teaching activities as a Teachers's assistant in Political Economics at the same department. Prior to joining the PUCP, I worked as a project assistant in the Municipality of Miraflores, in the department of Urban Mobility and as Research Assistant, in the Jurado Nacional de Elecciones (JNE). By the time, i have been working on developing my abilities in Data Science and quantitative methods of research. My goal is to develop my professional career in corruption and security field applying my analytical skills."
   
 
   skills:
@@ -64,7 +64,7 @@ params:
       startdate: Jul 2021
       enddate: present
       featuredpoints:
-        - point: Atted the academic affairs of the Political Science Specialty, Social Science.
+        - point: Attend the academic affairs of the Political Science Specialty, Social Science.
     - company: "Dirección Nacional de Educación y Formación Cívica Ciudadana (DNEF) del Jurado Nacional de Elecciones"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Research Assistant for the Visualization of data"
@@ -104,21 +104,21 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Analysis of the experiences and degrees of tolerance with corruption in Peru (2019)"
+    - name: "Analysis of the experiences and degrees of tolerance to corruption in Peru (2019)"
       img: "/images/Index.png"
       githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
       featuredlink: "/"
       description: "This report analyze the attitudes and experiences of Peruvians regarding corrupt behavior."
-    - name: "The Construction Club: an approach to the study of corruption in public procurement in Peru (2002-2016)"
+    - name: "The Construction Club: an approach to study corruption in public procurement in Peru (2002-2016)"
       img: "/images/Tesis.jpg"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17882"
       featuredlink: "/"
       description: "This thesis developed a response to the phenomenon of corruption in the construction of public works from the political economics field."
-    - name: "In the shadow of legality: the causes of corruption in the contracting of public works (2011-2014)"
+    - name: "In the shadow of legality: the causes of corruption in public procurements (2011-2014)"
       img: "/images/Cusco.jpg"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17164"
       featuredlink: "/"
-      description: "This study proposed a framework to study the causes of corruption in the construction of public works analizing two case studies: Vía de Evitamiento and the Antonio Lorena Hospital in Cusco."     
+      description: "This study proposed a framework to study the causes of corruption in the construction of public procurement analizing two case studies: Vía de Evitamiento and the Antonio Lorena Hospital in Cusco."     
   # Achievements
   disable_achievements: false
   achievements:
